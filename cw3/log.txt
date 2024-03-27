@@ -1,0 +1,5 @@
+commit 16c98dfa6db886c41773feaa5480a74bcb5ffba7
+Author: s30589 <s30589@pjwstk.edu.pl>
+Date:   Wed Mar 20 11:02:46 2024 +0100
+
+    commit text
